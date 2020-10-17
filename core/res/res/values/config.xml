@@ -4367,4 +4367,6 @@
 
     <!-- Component names of the services which will keep critical code path warm -->
     <string-array name="config_keep_warming_services" translatable="false" />
+
+    <integer name="config_buttonBrightnessSettingDefault">255</integer>
 </resources>
